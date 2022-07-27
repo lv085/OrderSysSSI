@@ -437,7 +437,7 @@
 										<td><i style="cursor: pointer; font-size: 14;"
 											onmouseover="this.style.color='orange'"
 											onmouseout="this.style.color='black'"
-											class="icon-credit-card icon-large" title="确认结账"></i>&nbsp;&nbsp;<i
+											class="icon-credit-card icon-large" title="确认结账" onclick="pay()"></i>&nbsp;&nbsp;<i
 											style="cursor: pointer; font-size: 14;"
 											onmouseover="this.style.color='orange'"
 											onmouseout="this.style.color='black'"
