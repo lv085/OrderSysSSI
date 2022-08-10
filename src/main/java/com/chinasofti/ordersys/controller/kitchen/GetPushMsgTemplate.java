@@ -34,7 +34,7 @@ public class GetPushMsgTemplate {
 
 		// 获取用户希望抓取数据的名称
 		String messageTitle = request.getParameter(messageTitleParameterName);
-		// 创建服务器数据推送的消息消费者
+		// 创建服务器数据推送的消息消费者9
 		MessageConsumer mconsumer = new MessageConsumer();
 
 		// 由于需要在匿名内部类对象中使用响应对象，因此定义一个final版本
